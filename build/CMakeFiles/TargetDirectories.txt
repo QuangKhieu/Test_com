@@ -1,0 +1,3 @@
+/home/quangkhieu/Test_prj/build/CMakeFiles/modbus_rtu_example.dir
+/home/quangkhieu/Test_prj/build/CMakeFiles/edit_cache.dir
+/home/quangkhieu/Test_prj/build/CMakeFiles/rebuild_cache.dir

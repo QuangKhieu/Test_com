@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/modbus_rtu_example.dir/src/hello.cpp.o CMakeFiles/modbus_rtu_example.dir/src/main.cpp.o CMakeFiles/modbus_rtu_example.dir/src/modbus_lib.cpp.o -o modbus_rtu_example  -lmodbus 

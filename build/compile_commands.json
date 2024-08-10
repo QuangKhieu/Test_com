@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/quangkhieu/Test_prj/build",
+  "command": "/usr/bin/c++  -I/usr/include/modbus -I/home/quangkhieu/Test_prj/include -g -std=gnu++11 -o CMakeFiles/modbus_rtu_example.dir/src/hello.cpp.o -c /home/quangkhieu/Test_prj/src/hello.cpp",
+  "file": "/home/quangkhieu/Test_prj/src/hello.cpp"
+},
+{
+  "directory": "/home/quangkhieu/Test_prj/build",
+  "command": "/usr/bin/c++  -I/usr/include/modbus -I/home/quangkhieu/Test_prj/include -g -std=gnu++11 -o CMakeFiles/modbus_rtu_example.dir/src/main.cpp.o -c /home/quangkhieu/Test_prj/src/main.cpp",
+  "file": "/home/quangkhieu/Test_prj/src/main.cpp"
+},
+{
+  "directory": "/home/quangkhieu/Test_prj/build",
+  "command": "/usr/bin/c++  -I/usr/include/modbus -I/home/quangkhieu/Test_prj/include -g -std=gnu++11 -o CMakeFiles/modbus_rtu_example.dir/src/modbus_lib.cpp.o -c /home/quangkhieu/Test_prj/src/modbus_lib.cpp",
+  "file": "/home/quangkhieu/Test_prj/src/modbus_lib.cpp"
+}
+]
